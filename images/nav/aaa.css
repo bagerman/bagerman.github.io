@@ -1,0 +1,42 @@
+.regtype {
+	FONT-SIZE: 11px; COLOR: #3d3d3d; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana
+}
+.whitetype {
+	FONT-SIZE: 10px; COLOR: white; FONT-FAMILY: Arial; LETTER-SPACING: 2px
+}
+.linktype {
+	FONT-SIZE: 10px; COLOR: #41473d; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana
+}
+.formtype {
+	FONT-SIZE: 10px; COLOR: #41473d; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+.titles {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #748077; LINE-HEIGHT: 15px; FONT-FAMILY: Arial; LETTER-SPACING: 1px
+}
+.linkcolor1 {
+	FONT-SIZE: 11px; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; TEXT-DECORATION: underline
+}
+.linksmall {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; TEXT-DECORATION: none
+}
+.linksmall A:link {
+	FONT-SIZE: 10px; COLOR: #3d3d3d; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; TEXT-DECORATION: none
+}
+.captiontype {
+	FONT-SIZE: 10px; COLOR: #3d3d3d; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular
+}
+.linksmall A:hover {
+	FONT-SIZE: 10px; COLOR: #cd853f; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; TEXT-DECORATION: none
+}
+.linkcolor1 A:link {
+	FONT-SIZE: 11px; COLOR: #3d3d3d; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; TEXT-DECORATION: underline
+}
+.linkcolor1 A:hover {
+	FONT-SIZE: 11px; COLOR: #cd853f; LINE-HEIGHT: 18px; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; TEXT-DECORATION: underline
+}
+.biotype {
+	FONT-SIZE: 11px; COLOR: #3d3d3d; LINE-HEIGHT: 14px; FONT-FAMILY: Verdana
+}
+.titlesbig {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: #748077; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, Swiss, SunSans-Regular; LETTER-SPACING: 1px
+}
